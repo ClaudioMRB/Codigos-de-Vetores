@@ -43,6 +43,7 @@ public class Vetores {
 }
 
 ## EXEMPLO 02 - Manipulação de vetor de elementos tipo referência (classe) parte 1/2
+
 package program;
 
 import java.util.Locale;
@@ -87,6 +88,7 @@ public class Vetores {
 
 }
 ## EXEMPLO 02 - Manipulação de vetor de elementos tipo referência (classe) parte 2/2
+
 package entities;
 
 public class Products {
